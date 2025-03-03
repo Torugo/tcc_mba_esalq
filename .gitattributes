@@ -1,3 +1,4 @@
 data/indicadores_trajetoria_educacao_superior_2013_2021.ods filter=lfs diff=lfs merge=lfs -text
 data/indicadores_trajetoria_educacao_superior_2013_2021.xlsx filter=lfs diff=lfs merge=lfs -text
 data/indicadores_trajetoria_educacao_superior_2013_2021_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+data/clenaed.csv filter=lfs diff=lfs merge=lfs -text
