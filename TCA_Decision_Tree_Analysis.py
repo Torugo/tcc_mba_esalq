@@ -49,7 +49,7 @@ def optimize_dtypes(df):
     # List of known categorical columns
     categorical_columns = [
         'Categoria Administrativa', 
-        'Organização Acadêmica',
+        'Orgaização Acadêmica',
         'Grau Acadêmico',
         'Modalidade de Ensino',
         'Nome da Grande Área do Curso segundo a classificação CINE BRASIL',

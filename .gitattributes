@@ -29,3 +29,4 @@ data/dados_censo/MICRODADOS_CADASTRO_CURSOS_2017.CSV filter=lfs diff=lfs merge=l
 data/dados_censo/MICRODADOS_CADASTRO_CURSOS_2020.CSV filter=lfs diff=lfs merge=lfs -text
 data/dados_censo/MICRODADOS_CADASTRO_CURSOS_2012_2023.parquet filter=lfs diff=lfs merge=lfs -text
 data/dados_censo/dados_censo.7z filter=lfs diff=lfs merge=lfs -text
+clenaed.csv filter=lfs diff=lfs merge=lfs -text
