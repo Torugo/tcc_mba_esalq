@@ -49,7 +49,7 @@ def optimize_dtypes(df):
     # List of known categorical columns
     categorical_columns = [
         'Categoria Administrativa', 
-        'Orgaização Acadêmica',
+        'Organização Acadêmica',
         'Grau Acadêmico',
         'Modalidade de Ensino',
         'Nome da Grande Área do Curso segundo a classificação CINE BRASIL',
@@ -713,7 +713,7 @@ def main(file_path, sample_size=None, max_depth=8):
 
 if __name__ == "__main__":
     # File path
-    file_path = "joined_data.parquet"
+    file_path = "data/joined_data.parquet"
     
     # Adjust these parameters based on your system
     sample_size = 100000  # Set to None to use entire dataset, or lower for memory constraints
