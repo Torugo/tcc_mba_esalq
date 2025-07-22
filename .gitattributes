@@ -33,3 +33,4 @@ clenaed.csv filter=lfs diff=lfs merge=lfs -text
 data/dados_limpos.parquet filter=lfs diff=lfs merge=lfs -text
 data/processed/clean_data.parquet filter=lfs diff=lfs merge=lfs -text
 data/processed/no_redundant_data.parquet filter=lfs diff=lfs merge=lfs -text
+data/processed/*.parquet filter=lfs diff=lfs merge=lfs -text
